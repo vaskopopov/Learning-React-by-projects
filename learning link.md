@@ -1,7 +1,10 @@
-Learn React JS Fundamentals With Project | React Tutorials for Beginners
+## Learn React JS Fundamentals With Project | React Tutorials for Beginners
 
+---
 
-https://www.youtube.com/watch?v=QoJGKwo20is
+[Youtube link for these tutorials](https://www.youtube.com/watch?v=QoJGKwo20is)
+
+---
 
 🔥 Video contents... ENJOY 👇
 0:00:00 - Intro 
